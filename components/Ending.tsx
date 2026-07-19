@@ -33,7 +33,7 @@ export function Ending() {
         >
           <Button
             onClick={() =>
-              toast({ title: "Cảm ơn vì đã ghé qua. Anh sẽ luôn nhớ về em." })
+              toast({ title: "Cảm ơn vì đã ghé qua." })
             }
           >
             Chúc em một hành trình thật đẹp.
